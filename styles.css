@@ -1207,7 +1207,6 @@ textarea.form-input {
 }
 
 .form-feedback.success {
-  display: flex;
   align-items: center;
   gap: 0.5rem;
   background-color: #ecfdf5;
